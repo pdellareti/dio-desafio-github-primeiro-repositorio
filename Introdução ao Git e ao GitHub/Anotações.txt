@@ -1,1 +1,2 @@
-Aula para criação do primeiro repositório no GitHub
+Primeiro repositório criado para o desagio dio Git/GitHub.
+Neste repositório será composto por anotações feitas durante as aulas do Bootcamp GFT Start #4 Java
